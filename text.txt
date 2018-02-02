@@ -1,1 +1,1 @@
-Add a simple .txt file
+Add a simple .txt file to project
